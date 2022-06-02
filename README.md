@@ -2,7 +2,8 @@
 - 👀 I’m interested in games, movies and all sorts of nerdy stuff.
 - 🌱 I’m currently learning more game developing on Unity.
 - 📫 How to reach me:
--     Email: niko.herman@netikka.fi
+-     Email: 
+-           niko.herman@netikka.fi
 
 <!---
 TR3CTA/TR3CTA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
