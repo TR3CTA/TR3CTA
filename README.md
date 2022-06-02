@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Niko Tapola, second year game dev student in Turku University of Applied Sciences.
 - 👀 I’m interested in games, movies and all sorts of nerdy stuff.
 - 🌱 I’m currently learning more game developing on Unity.
+- 🎮 I've got also one more group project(Arts of Sorcery), where I was doing the programming part.
 - 📫 How to reach me: 
 -     niko.herman@netikka.fi
 
